@@ -1,4 +1,4 @@
-# Calculator-Power-Apps
+# PowerApps-Calculator
 
 ## Power Apps not enough great
 
